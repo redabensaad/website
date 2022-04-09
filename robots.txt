@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /en
+Disallow: /ar
+Disallow: /recherche
+Disallow: /404
+https://reda-bensaad.ml/sitemap.xml
